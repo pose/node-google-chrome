@@ -1,0 +1,12 @@
+{
+  "name": "node-google-chrome",
+  "description": "Mac OS X bindings for Google Chrome",
+  "version": "0.0.1",
+  "dependencies": {
+    "NodObjC": "0.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pose/node-google-chrome.git"
+  }
+}
